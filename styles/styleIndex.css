@@ -20,7 +20,7 @@ header{
 }
 
 h1{
-    color: rgb(255, 156, 64);
+    color: rgb(197, 79, 49);
     font-size: 80px;
     font-weight: 100;
 }
@@ -33,7 +33,7 @@ h1{
 button{
     padding: 15px 25px;
     color: #ffffff;
-    background-color: rgb(255, 156, 64);
+    background-color: rgb(197, 79, 49);
     border: none;
     border-radius: 50px;
     font-size: 20px;
@@ -82,7 +82,7 @@ h2{
 }
 
 .articulo{
-    color: rgb(255, 156, 64);
+    color: rgb(197, 79, 49);
     font-size: 30px;
     font-weight: 100;
 }
@@ -101,7 +101,7 @@ h2{
 }
 
 .titulo{
-    color: rgb(255, 156, 64);
+    color: rgb(197, 79, 49);
     font-size: 30px;
     font-weight: 100;
 }
@@ -111,7 +111,7 @@ h2{
 }
 
 footer{
-    background-color: rgb(255, 156, 64);
+    background-color:rgb(197, 79, 49);
     color: rgb(255, 255, 255);
 }
 
